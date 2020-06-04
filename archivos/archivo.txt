@@ -1,0 +1,3 @@
+comienzo archivoura en archivo 
+esta linea ha sido incluida desde el exterior 
+ nueva linea de texto añadida

@@ -1,0 +1,11 @@
+se crea un paquete normal y para crearlo apra distribuirlo se le añade un archivo
+setup a la raiz (ver archivo de la carpeta), una vez creado, en cmd se va a la carpeta
+raiz de python y se ejectuta el archivo setup (python setup.py sdist) 
+eso creara el paquete.
+para instalarlo se va a la carpeta dist creada por la ejecucion anterior
+y se ejectura el comando: pip3 install nombre_paquete
+
+ya se puede usar el paquete en todos los programas que se creen sin tener que
+tener el paquete en una carpeta concreta.
+
+para desinstalar se ejecuta el comando: pip3 uninstall nombre_paquete
